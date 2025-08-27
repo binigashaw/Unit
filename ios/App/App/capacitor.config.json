@@ -1,6 +1,6 @@
 {
 	"appId": "com.resgrid.unit",
-	"appName": "Resgrid Unit",
+	"appName": "Fetan Unit",
 	"webDir": "www",
 	"bundledWebRuntime": false,
 	"android": {

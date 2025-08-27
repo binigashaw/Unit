@@ -1,5 +1,5 @@
 {
-  "appName": "Resgrid Unit",
+  "appName": "Fetan Unit",
   "settingsPage": {
     "title": "Settings",
     "advancedSettingsTitle": "Advanced Settings",
@@ -85,7 +85,7 @@
     "confirmLogoutText": "Are you sure you want to log out?"
   },
   "loginModal": {
-    "loginText": "Please enter your Resgrid credentials to log into the app",
+    "loginText": "Please enter your Fetan credentials to log into the app",
     "usernameLabel": "Username",
     "usernameErrorText": "Username is required",
     "passwordLabel": "Password",
